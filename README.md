@@ -1,4 +1,4 @@
-# Rubix-22-12-TheStillVariables
+# Rubix-'22-12-TheStillVariables
 Rubix Hackathon CSI-TSEC Problem Statement 3 - Eat Everything You Buy
 
 ![image](https://user-images.githubusercontent.com/68726065/159312637-36a43d4c-074e-4d9b-b374-8f5c779b513c.png)
