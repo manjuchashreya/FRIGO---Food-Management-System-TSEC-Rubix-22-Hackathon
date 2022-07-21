@@ -1,1 +1,3 @@
-# FRIGO-Food-Management-System-TSEC-Rubix-22-Hackathon
+# FRIGO-Food Management System (Eat Everything You Buy)
+
+
